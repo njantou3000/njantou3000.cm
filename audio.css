@@ -1,0 +1,18 @@
+body{
+    background: url(../img/l.png);
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #055dff;
+}
+audio{
+    color: blue;
+    text-align: center;
+    animation-duration: initial;
+}
+a{
+    color: rgb(0, 255, 234);
+    background-color: rgb(1, 75, 53);
+}
+ul{
+    color: rgb(72, 255, 0);
+}

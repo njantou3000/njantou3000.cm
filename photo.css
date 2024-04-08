@@ -1,0 +1,15 @@
+head{
+
+}
+body{
+    
+    background: url(./../img/p.png);
+}
+h1{
+    text-align: center;
+    color: rgb(34, 66, 2);
+}
+a{
+    color: rgb(0, 255, 234);
+    background-color: rgb(1, 75, 53);
+}
